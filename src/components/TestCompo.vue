@@ -28,7 +28,9 @@ h3 {
 }
 .jumbotron {
   background-color: #42b983;
+  color: white;
   padding: 50px;
+  background-image: url('https://picsum.photos/1900/420');
 }
 ul {
   list-style-type: none;

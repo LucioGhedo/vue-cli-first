@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ test }}</h1>
     <div>
-      <img src="https://picsum.photos/500/500" alt="a">
+      <img src="https://picsum.photos/900/900" alt="a">
     </div>
   </div>
 </template>
